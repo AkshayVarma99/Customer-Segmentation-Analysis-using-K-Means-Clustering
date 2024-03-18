@@ -1,0 +1,6 @@
+Dependencies
+
+Python 
+pandas
+scikit-learn
+plotly
