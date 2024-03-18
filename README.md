@@ -14,11 +14,5 @@ Install the required dependencies listed in requirements.txt.
 Run the customer_segmentation.py script to perform clustering analysis.
 View the results and visualizations generated in the output.
 
-# Dependencies
-Python 3.x
-pandas
-scikit-learn
-plotly
-
 # Dataset
-The dataset used for this analysis contains information about customers' spending behavior, age, and annual income. It can be found in the data directory.
+The dataset used for this analysis contains information about customers' spending behavior, age, and annual income. It can be found in the directory.
